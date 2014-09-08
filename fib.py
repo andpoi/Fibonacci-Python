@@ -4,7 +4,7 @@ fib1=0
 fib2=1
 fib3=0
 counter=0
-limit=10000
+limit=20000
 
 while(counter<limit):
 	fib3 = fib1 + fib2
